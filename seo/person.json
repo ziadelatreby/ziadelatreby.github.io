@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ziad Elatreby",
+  "jobTitle": "Software Engineer",
+  "image": "https://ziadelatreby.github.io/images/profile-picture.png",
+  "url": "https://ziadelatreby.github.io",
+  "sameAs": [
+    "https://linkedin.com/in/ziadelatreby",
+    "https://github.com/ziadelatreby"
+  ]
+}
